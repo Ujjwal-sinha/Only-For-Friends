@@ -21,13 +21,19 @@ UI/UX WEBSITE EXAMPLE USING REACT,REACT ICONS , REACT TYPED, TAILWINDCSS ...
 
 TO RUN THE CODE 
  BUILD THE ENVIRONMENT 
+ 
  npm create vite@latest
+ 
  name and language
+ 
  cd name of project
+ 
  npm i
- tailwindcss,reacttyped,reacticons
+ 
+ tailwindcss,react typed,react icons
+ 
  npm run dev
  ...
- GOOD TO GO .
+
 
 
